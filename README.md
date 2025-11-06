@@ -1,3 +1,4 @@
+# Path Follower
 This project presents the design, hardware implementation, and testing of a path finder 
 vehicle using an ARM-based STM32F411CEU6 microcontroller (Blackpill board). The 
 vehicle autonomously follows a line path using three IR sensors, navigated by BO motors 
